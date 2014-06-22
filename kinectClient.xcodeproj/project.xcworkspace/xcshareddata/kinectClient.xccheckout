@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>57936FDC-3755-4694-9FE5-1B0D2B61F16C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>kinectClient</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>120D327E-BD9C-4065-B389-578F97A9E6E3</key>
+		<string>ssh://github.com/Caldis/kinectClient.git</string>
+		<key>F81B708D-ACF8-4966-AECF-6078168A65D1</key>
+		<string>https://github.com/Caldis/kinectClient.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>kinectClient.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>120D327E-BD9C-4065-B389-578F97A9E6E3</key>
+		<string>../../kinectClient</string>
+		<key>F81B708D-ACF8-4966-AECF-6078168A65D1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Caldis/kinectClient.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F81B708D-ACF8-4966-AECF-6078168A65D1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F81B708D-ACF8-4966-AECF-6078168A65D1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>kinectClient</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>120D327E-BD9C-4065-B389-578F97A9E6E3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>kinectClient</string>
+		</dict>
+	</array>
+</dict>
+</plist>
